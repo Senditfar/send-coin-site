@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send ($SEND) - Just Send It!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #121212;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            padding: 20px;
+            background: #ff4500;
+        }
+        .container {
+            padding: 40px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #ff4500;
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 10px;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: #222;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🚀 Send ($SEND) - Just Send It! 🚀</h1>
+    </header>
+    <div class="container">
+        <h2>What is $SEND?</h2>
+        <p>The meme-powered coin that knows no limits. Zero tax, community-driven, and built to SEND IT FAR! 📩➡️🌕</p>
+        <a href="#buy" class="button">Buy $SEND Now</a>
+    </div>
+    <div class="container">
+        <h2>How to Buy?</h2>
+        <p>1. Download MetaMask or Trust Wallet</p>
+        <p>2. Connect to Uniswap/PancakeSwap</p>
+        <p>3. Swap ETH/BNB for $SEND</p>
+    </div>
+    <footer>
+        <p>Join the Community: <a href="https://t.me/SendCoin" target="_blank">Telegram</a> | <a href="https://twitter.com/SendCoin" target="_blank">Twitter</a></p>
+    </footer>
+</body>
+</html>
